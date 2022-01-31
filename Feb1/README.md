@@ -1,3 +1,3 @@
 #SELF PORTRAIT
 
-![self portait][self_portait.png]
+![self portait][https://github.com/faizanraza09/introToIM/blob/main/Feb1/self_portrait.png]
