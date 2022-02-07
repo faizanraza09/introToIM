@@ -18,9 +18,9 @@ The first main difficuly I encountered was when learning how to rotate and trans
 
 
 #### References
-[1]: https://www.pinterest.com/pin/708050372657216224/
-[2]: https://opencurve.info/the-collatz-conjecture/
-[3]: https://www.youtube.com/watch?v=EYLWxwo1Ed8
+[1]: https://www.pinterest.com/pin/708050372657216224/ 'Title'
+[2]: https://opencurve.info/the-collatz-conjecture/ 'Title'
+[3]: https://www.youtube.com/watch?v=EYLWxwo1Ed8 'Title'
 
 
 
