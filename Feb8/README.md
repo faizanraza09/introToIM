@@ -1,2 +1,2 @@
-#Colla(r)tz Conjecture
+# Colla(r)tz Conjecture
 
