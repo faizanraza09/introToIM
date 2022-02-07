@@ -15,6 +15,9 @@ Collatz conjecture based art has been something I have been fascinated by since 
 The first main difficuly I encountered was when learning how to rotate and translate and how to reset the all the rotations and translations (using the resetmatrix command) back to the origin. This [video][3] helped me understand how to use them. Another difficulty i encountered was when animating the artwork because my inital code did not use the draw function and was only using for loops. So to replace the for loop by the draw function to animate it was a bit challenging but i figured that out by experimenting with the code.
 
 #### Things I Learned
+* How to translate and rotate objects
+* How to reset the axis
+* How to interchangeably use for loops and the draw function
 
 
 
