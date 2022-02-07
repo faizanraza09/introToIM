@@ -3,7 +3,7 @@ Collatz Conjecture, which I thought was pronounced as Coll**art**z Conjecture un
 
 ![notation1](https://wikimedia.org/api/rest_v1/media/math/render/svg/ec22031bdc2a1ab2e4effe47ae75a836e7dea459)
 
-However since **3*n+1** will always be an even number, we can speeden up the process to see faster growing patterns by this modified notation:
+However since **3*n+1** will always be an even number, we can speed up the process to see faster growing patterns by this modified notation:
 
 ![notation2](https://wikimedia.org/api/rest_v1/media/math/render/svg/ae238aa62598cce67c57371012b818b65d1ad6e3)
 
