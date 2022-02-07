@@ -9,5 +9,4 @@ However since **3*n+1** will always be an even number, we can speeden up the pro
 
 ![notation2](https://wikimedia.org/api/rest_v1/media/math/render/svg/ae238aa62598cce67c57371012b818b65d1ad6e3)
 
-
 ![collatz_conjecture](https://github.com/faizanraza09/introToIM/blob/main/Feb8/collatz.png)
