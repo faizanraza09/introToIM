@@ -1,7 +1,7 @@
 # Colla*r*tz Conjecture
 
 
-Collatz Conjecture, which I thought was pronounced as Coll*art*z Conjecture until very long, asks whether repeating two simple arithmetic operations will eventually transform every positive integer into one. It is given by the following notation:
+Collatz Conjecture, which I thought was pronounced as Coll**art**z Conjecture until very long, asks whether repeating two simple arithmetic operations will eventually transform every positive integer into one. It is given by the following notation:
 
 ![notation1](https://wikimedia.org/api/rest_v1/media/math/render/svg/ec22031bdc2a1ab2e4effe47ae75a836e7dea459)
 
