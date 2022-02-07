@@ -29,10 +29,6 @@ The first main difficuly I encountered was when learning how to rotate and trans
 1. https://www.pinterest.com/pin/708050372657216224/ 
 2. https://opencurve.info/the-collatz-conjecture/ 
 3. https://www.youtube.com/watch?v=EYLWxwo1Ed8 
-
-
-
-
 ![collatz_conjecture](https://github.com/faizanraza09/introToIM/blob/main/Feb8/collatz.png)
 
 
