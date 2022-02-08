@@ -22,8 +22,9 @@ function setup() {
     }
   }
 
-//setting initial counter
+// setting initial counter
 let x=0
+// using the draw function to animate the growth
 function draw() {
   // resets all the rotations and translations
   resetMatrix()
