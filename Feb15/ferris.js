@@ -21,10 +21,12 @@ function draw() {
   fill(249,215,28)
   noStroke()
   circle(40,40,50)
+  
   //resetting the parameters
   stroke(0)
   strokeWeight(3)
   noFill()
+  
   //inner and outer circles
   circle(width/2,height/2,dia)
   circle(width/2,height/2,50)
@@ -50,8 +52,10 @@ class Cabin {
     this.x= 200+dia/2*cos(this.angle)
     this.y=200-dia/2*sin(this.angle)  
     line(200,200,this.x,this.y)
+    
     //making the line connecting the cabin to the center
     fill(this.r,this.g,this.b)
+    
     //making the cabin
     rect(this.x-25,this.y,50,30)
     noFill(255)
