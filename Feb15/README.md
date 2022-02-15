@@ -11,5 +11,6 @@ https://user-images.githubusercontent.com/65659234/154003415-cc6997ab-699c-4a31-
 * I gave random colours to each cabin
 * Then drew the sun using a simple circle
 
-I didnt face any such difficulty as I have worked previously worked with OOP before but an interesting thing i noticed that even though my ferris wheel rotates it does not use the rotate function but rather just giving an angle property to the object and incrementing it worked for me
 
+## Difficulties
+This project was very interesting because i thought it will take me a while to figure out how to move the carts like an actual ferris wheel ( rotating them while also translating them in circular motion) but just using the angle property for the cabins and then subsequently sine and cosine to position the cabins worked very smoothly.
