@@ -8,6 +8,7 @@ function preload() {
 
 function setup() {
   createCanvas(500, 500);
+  frameRate(5);
   rows = data.getRows();
   for (i = 0; i < rows.length; i++) {
     // Pushing the hex codes into the array
