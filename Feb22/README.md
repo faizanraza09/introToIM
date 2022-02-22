@@ -1,4 +1,5 @@
 # Colors of Van Gogh
+![](https://github.com/faizanraza09/introToIM/blob/main/Feb22/van_gogh_colors.png)
 
 ### Dataset
 I got this dataset from kaggle. The dataset has details of van gogh paintings over the years. The data i used was the 5 hex color codes given for each painting and then displayed the colors from his paintings over time
