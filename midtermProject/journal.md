@@ -10,3 +10,6 @@ The concept of this game revolves around a character that has to travel from one
 
 # Controls
 The character would move automatically to the end of the platform, then the user would have to hold down their mouse to draw the stick vertically and when they release their mouse the stick would flick and would transition into a horizontal bridge for the character to travel over from one platform to another and again the character would reach the end of the platform automatcially and so on.
+
+# The Most Challenging Part
+The most challenging part in my opinion would be when the character moves forwards, to remove the old platforms and bring new platforms, which are randomly generated, into the screen. A solution that might work for this is if all the platforms go into an array and as when the character moves forward the previous platforms x coordinates go leftwards and eventually when the x coordinate is negative, i will remove the object from the array.
