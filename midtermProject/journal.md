@@ -31,8 +31,8 @@ Then after the player had reached the platform, the next task was to move the pl
 ## Step 6 - Implementing the State Manager
 Then I decided to create a state variable which would take different values from 0 to 9 depending on where the code was at where state 0 meant the starting screen and state 9 meaning the restart screen. From then on the code started looking cleaner and a lot easier to implement. To move the player in line with the platform I just equated the players x coordinate with the platform x coordinate when state 7 was reached.
 
-## Step 7 - Creating the Score Board
-After the game mechanics were nearing completion, i created a simple score board which would update by 1 when the player would make a stick appropriate to reach the platform.
+## Step 7 - Creating the Score Board and the Background
+After the game mechanics were nearing completion, i created a simple score board which would update by 1 when the player would make a stick appropriate to reach the platform. I aslo searched up a background image and preloaded and integrated that.
 
 ## Step 8 - Game Over and Restart Screen
 When the player wouldnt make the stick in line with the platform , he would reach the sticks end and then the game would be over. The game over screen then says game over and displays the score with an option to restart the game.
@@ -43,8 +43,10 @@ Then I searched for sound effects for success in reaching the platforms and fail
 ## Step 10 - Player Animation
 The next step was replacing the square with an actual player. For that I searched up a sprite on the internet and then used its dimensions along with the get() function to get the relevant piece from the sprite sheet according to the position the player was in.
 
-## Step 9 - Game Start Screen
+## Step 11 - Game Start Screen
 Finishing the game with the thing that should be in the start, the starting instruction screen. Quite ironic right ! For that I drew a white rectangle with instructions inside it and then a button to start the game. The instructions screen would be displayed when the game was in state 0 and a mouse click would convert the state 0 to state 1 indicating the sgame has started.
 
 
+# The Final Game
+https://user-images.githubusercontent.com/65659234/158065157-5fa15b76-7472-4100-ae87-4e7eda476e8d.mp4
 
