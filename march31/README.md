@@ -28,5 +28,7 @@ My initial plan was to use aluminium foil instead of the copper wires but the im
 
 
 ## Demo
-![](https://github.com/faizanraza09/introToIM/blob/main/march31/demo.jpg)
+https://user-images.githubusercontent.com/65659234/160660614-f2d8ff3b-54b0-408c-a8d1-b3ea5294ea65.mp4
+
+
 
