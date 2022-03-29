@@ -10,4 +10,23 @@ First i made a basic circuit with a led and a resistor with ends of two wires un
 ## Problems
 My initial plan was to use aluminium foil instead of the copper wires but the im lab did not have it so the lab assistant suggested to use copper tape. But the copper tape wasnt conductive enough and when two copper tapes touched each other the current wasnt strong enough to complete the circuit. So i just used the next best available option which was the copper wire.
 
+## Pictures
+### LED ON
+![](https://github.com/faizanraza09/introToIM/blob/main/march31/ledon.jpg)
+
+### LED OFF
+![](https://github.com/faizanraza09/introToIM/blob/main/march31/ledoff.jpg)
+
+### Breadboard
+![](https://github.com/faizanraza09/introToIM/blob/main/march31/breadboard.jpg)
+
+### Arduino
+![](https://github.com/faizanraza09/introToIM/blob/main/march31/arduino.jpg)
+
+### Book
+![](https://github.com/faizanraza09/introToIM/blob/main/march31/book.jpg)
+
+
+## Demo
+![](https://github.com/faizanraza09/introToIM/blob/main/march31/demo.jpg)
 
