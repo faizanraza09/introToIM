@@ -25,7 +25,7 @@ The design will consist of an acrylic board over which two breadboards will be i
 The inputs would be the two ultrasonic or infrared sensors, which will be analog and will continuously provide information to the arduino. The outputs would be the buzzer, which will ring when the max capacity is reached, a bluetooth module, which will send information to the laptop in order to analyze the data.
 
 ## P5 Input and Output
-The input p5 is taking is the count from the arduino, when a person is detected either entering or exiting. The output would be on an LED screen, just like the Air Quality Index on campus, the count of the people and data analysis in the shape of a graph. p5 will also save the data into a csv file so in case the p5 program closes the p5 program can load data from the csv
+The input p5 is taking is the count from the arduino, when a person is detected either entering or exiting. The output would be on an LED screen, just like the Air Quality Index on campus, the count of the people and data analysis in the shape of a graph. p5 will also save the data into a csv file so in case the p5 program closes the p5 program can load data from the csv.
 
 
 
