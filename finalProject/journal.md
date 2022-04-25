@@ -27,6 +27,19 @@ The inputs would be the two ultrasonic or infrared sensors, which will be analog
 ## P5 Input and Output
 The input p5 is taking is the count from the arduino, when a person is detected either entering or exiting. The output would be on an LED screen, just like the Air Quality Index on campus, the count of the people and data analysis in the shape of a graph. p5 will also save the data into a csv file so in case the p5 program closes the p5 program can load data from the csv.
 
+# 25 April 2022
+## Setting up the circuit
+We used two breadboards with an ultrasonic sensor attached to both and both breadboards a certain distance apart. A buzzer is attached to one breadboard which is tirggered when the maximum amount of people pass the room. 
+
+## Problems Faced
+- Initially we put the breadboards flat horizontal on the table and the problem we faced was that the waves from the ultrasonic spread horizontally which caused the counter to usually double count and problems in determining which sensor was triggered first. But we fixed that by putting the breadboards vertically from a certain distance from each other so the waves from the ultrasonic sensor are dispersed vertically and not horizontally.
+- Another 
+- Another problem we faced was determining the perfect distance from the sensors that would 
+
+## Next Steps
+Now we need to do some soldering to connect wires to the ultrasonic because right now the two breadboards are very close to each other causing problems in counting if the person is not walking in an almost perfect posture. Then after the solder and connect the two breadboards, we need to stick the breadboard to an enclosure and that enclosure can then be put up on a door.
+
+
 
 
 
