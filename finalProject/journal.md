@@ -33,11 +33,11 @@ We used two breadboards with an ultrasonic sensor attached to both and both brea
 
 ## Problems Faced
 - Initially we put the breadboards flat horizontal on the table and the problem we faced was that the waves from the ultrasonic spread horizontally which caused the counter to usually double count and problems in determining which sensor was triggered first. But we fixed that by putting the breadboards vertically from a certain distance from each other so the waves from the ultrasonic sensor are dispersed vertically and not horizontally.
-- Another 
-- Another problem we faced was determining the perfect distance from the sensors that would 
+- Another problem that we faced was that we were just setting a threshold to detect movement but we soon realized that in different scenarios there would be different things in the background which could interfere with our readings so we calculated the initial measurement and set the threshold according to that value so it detects a change in the background signalling a passing person in order to increment or decrement the count
+- Another problem we faced was determining the perfect distance from the sensors and the delay values that would better the program. How we got around that was simple, by trial and error: checking multiple values of the threshold and the delay and seeing which gives the best results.
 
 ## Next Steps
-Now we need to do some soldering to connect wires to the ultrasonic because right now the two breadboards are very close to each other causing problems in counting if the person is not walking in an almost perfect posture. Then after the solder and connect the two breadboards, we need to stick the breadboard to an enclosure and that enclosure can then be put up on a door.
+Now we need to do some soldering to connect wires to the ultrasonic because right now the two breadboards are very close to each other causing problems in counting if the person is not walking in an almost perfect posture. Then after the solder and connect the two breadboards, we need to stick the breadboard to an enclosure and that enclosure can then be put up on a door. We also need to connect the battery in order to make the arduino wireless and also a bluetooth sensor so that the arduino can send data into the computer and p5js can then use the data for descriptive and predictive analysis.
 
 
 
