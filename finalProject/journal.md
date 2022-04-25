@@ -72,6 +72,11 @@ https://user-images.githubusercontent.com/90772853/165177019-75a13aca-2fa2-4f83-
 
 https://user-images.githubusercontent.com/90772853/165177039-8b24bc52-40a2-4f05-b8c8-728083f3dd0b.mov
 
+#### Schematics (So Far):
+
+![Schematics](https://user-images.githubusercontent.com/90772853/165177557-fec20518-bd57-4c3b-a011-5f04a6872fa2.jpeg)
+
+
 
 
 
